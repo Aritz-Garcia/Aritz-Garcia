@@ -1,4 +1,6 @@
 # Hola, soy Aritz 👋🏻
+![Public repo](https://custom-icon-badges.demolab.com/badge/dynamic/json?color=37ae6c&label=Repositories&query=$.public_repos&url=https://api.github.com/users/Aritz-Garcia&style=for-the-badge&logo=github&logoColor=ffffff)
+![](https://komarev.com/ghpvc/?username=Aritz-Garcia&color=37ae6c&style=for-the-badge)
 <!-- Gif de programador -->
 ## Sobre mi 👨🏻‍💻
 <!-- Texto sobre mi -->
@@ -15,6 +17,7 @@
 ![Bootstrap](https://img.shields.io/badge/BOOTSTRAP-%20?style=for-the-badge&logo=bootstrap&logoColor=FFFFFF&color=%237952B3)
 ![Node.js](https://img.shields.io/badge/NODE.JS-%20?style=for-the-badge&logo=nodedotjs&logoColor=FFFFFF&color=%235FA04E)
 ![C#](https://img.shields.io/badge/C%23-%20?style=for-the-badge&logo=csharp&logoColor=FFFFFF&color=%23512BD4)
+![Git](https://img.shields.io/badge/GIT-%20?style=for-the-badge&logo=git&logoColor=ffffff&color=%23F05032)
 ![MySQL](https://img.shields.io/badge/MYSQL-%20?style=for-the-badge&logo=mysql&logoColor=FFFFFF&color=%234479A1)
 ![Blazor](https://img.shields.io/badge/BLAZOR-%20?style=for-the-badge&logo=blazor&logoColor=FFFFFF&color=%23512BD4)
 ![Sass](https://img.shields.io/badge/SASS-%20?style=for-the-badge&logo=sass&logoColor=FFFFFF&color=%23CC6699)
@@ -26,7 +29,23 @@
 ![Angular](https://img.shields.io/badge/ANGULAR-%20?style=for-the-badge&logo=angular&logoColor=FFFFFF&color=%23C3002F)
 
 ## Herramientas ⌨️
-<!-- Badges de Herramientas -->
+![PhpMyAdmin](https://img.shields.io/badge/PHPMYADMIN-%20?style=for-the-badge&logo=phpmyadmin&logoColor=ffffff&color=%236C78AF)
+![AWS](https://img.shields.io/badge/AWS-%20?style=for-the-badge&logo=amazonaws&logoColor=ffffff&color=%23232F3E)
+![Docker](https://img.shields.io/badge/DOCKER-%20?style=for-the-badge&logo=docker&logoColor=ffffff&color=%232496ED)
+![GitHub](https://img.shields.io/badge/GITHUB-%20?style=for-the-badge&logo=github&logoColor=ffffff&color=%23181717)
+![GitLab](https://img.shields.io/badge/GITLAB-%20?style=for-the-badge&logo=gitlab&logoColor=ffffff&color=%23FC6D26)
+![Vs Code](https://img.shields.io/badge/VISUAL%20STUDIO%20CODE-%20?style=for-the-badge&logo=visualstudiocode&logoColor=ffffff&color=%23007ACC)
+![Workbench](https://img.shields.io/badge/WORKBENCH-%20?style=for-the-badge&logoColor=ffffff&color=%2326557c)
+![XAMPP](https://img.shields.io/badge/XAMPP-%20?style=for-the-badge&logo=xampp&logoColor=ffffff&color=%23FB7A24)
+![Android Studio](https://img.shields.io/badge/ANDROID%20STUDIO-%20?style=for-the-badge&logo=androidstudio&logoColor=ffffff&color=%233DDC84)
+![Visual Studio](https://img.shields.io/badge/VISUAL%20STUDIO-%20?style=for-the-badge&logo=visualstudio&logoColor=ffffff&color=%235C2D91)
+![Eclipse](https://img.shields.io/badge/ECLIPSE-%20?style=for-the-badge&logo=eclipseide&logoColor=ffffff&color=%232C2255)
+![IDEA IntelliJ](https://img.shields.io/badge/INTELLIJ%20IDEA-%20?style=for-the-badge&logo=intellijidea&logoColor=ffffff&color=%23000000)
+![Notepad++](https://img.shields.io/badge/NOTEPAD%2B%2B-%20?style=for-the-badge&logo=notepadplusplus&logoColor=ffffff&color=%2390E59A)
+![Firebase](https://img.shields.io/badge/FIREBASE-%20?style=for-the-badge&logo=firebase&logoColor=ffffff&color=%23FFCA28)
+![Postman](https://img.shields.io/badge/POSTMAN-%20?style=for-the-badge&logo=postman&logoColor=ffffff&color=%23FF6C37)
+![VirtualBox](https://img.shields.io/badge/VIRTUALBOX-%20?style=for-the-badge&logo=virtualbox&logoColor=ffffff&color=%23183A61)
+![Figma](https://img.shields.io/badge/FIGMA-%20?style=for-the-badge&logo=figma&logoColor=ffffff&color=%23F24E1E)
 
 ## Estadisticas 📈
 <div align="center">
@@ -43,7 +62,7 @@
 [![GMAIL](https://img.shields.io/badge/GMAIL-%20?style=for-the-badge&logo=gmail&logoColor=FFFFFF&color=%23EA4335)](mailto:aritz2030@gmail.com)
 
 ## Donaciones 💰
-Si quieres contribuir al proyecto puedes hacerlo de las siguientes maneras:
+Si quieres contribuir puedes hacerlo de las siguientes maneras:
 
 [![Ko-fi](https://img.shields.io/badge/BUY%20ME%20A%20COFFEE-%23FF5E5B?style=for-the-badge&logo=kofi&logoColor=%23FFFFFF)](https://ko-fi.com/aritzgarcia)
 [![PayPal](https://img.shields.io/badge/PAYPAL-%23003087?style=for-the-badge&logo=PayPal&logoColor=%23FFFFFF)](https://www.paypal.com/paypalme/aritzgarcia30)
