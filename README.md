@@ -33,9 +33,9 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Aritz-Garcia&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=es&hide_border=false&order=1" height="150" alt="grafico de estadisticas"  />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aritz-Garcia&locale=es&card_width=320&langs_count=5&theme=vue-dark&hide_border=false&order=2" height="250" alt="grafico de lenguajes"  />
-
   <img src="https://streak-stats.demolab.com?user=Aritz-Garcia&theme=vue-dark&locale=es" height="150" alt="estadicticas racha"  />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aritz-Garcia&locale=es&card_width=320&langs_count=5&theme=vue-dark&hide_border=false&order=2" height="250" alt="grafico de lenguajes"  />
 
 </div>
 
