@@ -4,7 +4,6 @@
 <!-- Texto sobre mi -->
 
 ## Lenguajes y Tecnologias 💻
-<!-- Badges de lenguajes y tecnoclogias -->
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-%20?style=for-the-badge&logo=javascript&logoColor=FFFFFF&color=%23F7DF1E)
 ![HTML](https://img.shields.io/badge/HTML-%20?style=for-the-badge&logo=HTML5&logoColor=FFFFFF&color=%23E34F26)
@@ -31,7 +30,7 @@
 
 ## Estadisticas 📈
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aritz-Garcia&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=es&hide_border=false&order=1" height="150" alt="grafico de estadisticas"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Aritz-Garcia&show_icons=true&include_all_commits=true&count_private=true&theme=vue-dark&locale=es" height="150" alt="grafico de estadisticas"  />
 
   <img src="https://streak-stats.demolab.com?user=Aritz-Garcia&theme=vue-dark&locale=es" height="150" alt="estadicticas racha"  />
 
