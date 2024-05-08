@@ -1,7 +1,12 @@
 # Hola, soy Aritz 👋🏻
 ![Public repo](https://custom-icon-badges.demolab.com/badge/dynamic/json?color=37ae6c&label=Repositories&query=$.public_repos&url=https://api.github.com/users/Aritz-Garcia&style=for-the-badge&logo=github&logoColor=ffffff)
 ![Profile view](https://komarev.com/ghpvc/?username=Aritz-Garcia&color=37ae6c&style=for-the-badge)
-<img src="img/programador.gif" align="center" width="600px" >
+
+<div align="center">
+
+<img src="img/programador.gif" width="600px" >
+
+</div>
 
 ## Sobre mi 👨🏻‍💻
 <!-- Texto sobre mi -->
