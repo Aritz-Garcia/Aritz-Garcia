@@ -1,6 +1,6 @@
 # Hola, soy Aritz 👋🏻
-![Public repo](https://custom-icon-badges.demolab.com/badge/dynamic/json?color=37ae6c&label=Repositories&query=$.public_repos&url=https://api.github.com/users/Aritz-Garcia&style=for-the-badge&logo=github&logoColor=ffffff)
-![Profile view](https://komarev.com/ghpvc/?username=Aritz-Garcia&color=37ae6c&style=for-the-badge)
+[![Public repo](https://custom-icon-badges.demolab.com/badge/dynamic/json?color=37ae6c&label=Repositories&query=$.public_repos&url=https://api.github.com/users/Aritz-Garcia&style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/Aritz-Garcia?tab=repositories)
+[![Profile view](https://komarev.com/ghpvc/?username=Aritz-Garcia&color=37ae6c&style=for-the-badge)](https://github.com/Aritz-Garcia)
 
 <div align="center">
 
@@ -9,8 +9,7 @@
 </div>
 
 ## Sobre mi 👨🏻‍💻
-<!-- Texto sobre mi -->
-Soy un desarrollador apasionado con un enfoque en el desarrollo web y la creación de aplicaciones multiplataforma. Me encanta la tecnología y estoy constantemente explorando nuevas herramientas y técnicas para mejorar la calidad de mis proyectos.
+Soy un desarrollador apasionado con un enfoque en el desarrollo web y la creación de aplicaciones multiplataforma. Me encanta la tecnología y estoy constantemente explorando nuevas herramientas, tecnologías y lenguajes para mejorar la calidad de mis proyectos.
 
 ## Lenguajes y Tecnologias 💻
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -56,6 +55,7 @@ Soy un desarrollador apasionado con un enfoque en el desarrollo web y la creaci�
 
 ## Estadisticas 📈
 <div align="center">
+
   <img src="https://github-readme-stats.vercel.app/api?username=Aritz-Garcia&show_icons=true&include_all_commits=true&count_private=true&theme=vue-dark&locale=es" height="150" alt="grafico de estadisticas"  />
 
   <img src="https://streak-stats.demolab.com?user=Aritz-Garcia&theme=vue-dark&locale=es" height="150" alt="estadicticas racha"  />
