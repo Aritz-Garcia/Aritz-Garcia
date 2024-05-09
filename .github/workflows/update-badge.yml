@@ -29,6 +29,6 @@ jobs:
           git config --global user.email "aritz2030@gmail.com"
           git config --global user.name "Aritz-Garcia"
           git add README.md
-          git commit -m "Update README con cantidad de repositorios: ${{ env.REPO_COUNT }}"
+          git commit -m "Update README"
           git push
 
