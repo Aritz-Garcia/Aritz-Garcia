@@ -2,7 +2,7 @@
 <div align="center">
 
 <!-- repo_count_starts -->
-![](https://img.shields.io/badge/0-%20?&style=for-the-badge&logo=github&logoColor=FFFFFF&label=REPOSITORIOS&color=37ae6c)
+![](https://img.shields.io/badge/6-%20?&style=for-the-badge&logo=github&logoColor=FFFFFF&label=REPOSITORIOS&color=37ae6c)
 <!-- repo_count_ends -->
 
 ![Public repo](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FAritz-Garcia&query=public_repos&style=for-the-badge&logo=github&logoColor=FFFFFF&label=REPOSITORIOS&color=37ae6c)
