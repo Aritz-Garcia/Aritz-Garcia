@@ -1,0 +1,27 @@
+name: Update GitHub Public Repos Badge
+
+on:
+  schedule:
+    # Esto corre todos los días a las 00:00 UTC
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-badge:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Update README with public repos count
+      run: |
+        # Aquí el script para actualizar el README.md
+        USER_NAME="Aritz-Garcia"
+        DATA=$(curl -s https://api.github.com/users/$USER_NAME)
+        PUBLIC_REPOS=$(echo $DATA | jq .public_repos)
+        sed -i "s/badge\/public%20repos-.*-blue/badge\/public%20repos-$PUBLIC_REPOS-blue/" README.md
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add README.md
+        git commit -m "Update public repos count"
+        git push
