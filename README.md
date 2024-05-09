@@ -10,6 +10,7 @@
 
 ## Sobre mi 👨🏻‍💻
 <!-- Texto sobre mi -->
+Soy un desarrollador apasionado con un enfoque en el desarrollo web y la creación de aplicaciones multiplataforma. Me encanta la tecnología y estoy constantemente explorando nuevas herramientas y técnicas para mejorar la calidad de mis proyectos.
 
 ## Lenguajes y Tecnologias 💻
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
