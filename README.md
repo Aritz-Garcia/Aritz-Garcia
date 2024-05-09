@@ -1,6 +1,10 @@
 # Hola, soy Aritz 👋🏻
+<div align="center">
+
 ![Public repo](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FAritz-Garcia&query=public_repos&style=for-the-badge&logo=github&logoColor=FFFFFF&label=REPOSITORIOS&color=37ae6c)
 ![Profile view](https://komarev.com/ghpvc/?username=Aritz-Garcia&color=37ae6c&style=for-the-badge&label=VISITAS%20DEL%20PERFIL)
+
+</div>
 
 <div align="center">
 
