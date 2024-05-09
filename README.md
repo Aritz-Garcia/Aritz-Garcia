@@ -1,6 +1,6 @@
 # Hola, soy Aritz 👋🏻
-![Public repo](https://custom-icon-badges.demolab.com/badge/dynamic/json?color=37ae6c&label=Repositories&query=$.public_repos&url=https://api.github.com/users/Aritz-Garcia&style=for-the-badge&logo=github&logoColor=ffffff)
-![Profile view](https://komarev.com/ghpvc/?username=Aritz-Garcia&color=37ae6c&style=for-the-badge)
+![Public repo](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FAritz-Garcia&query=public_repos&style=for-the-badge&logo=github&logoColor=FFFFFF&label=REPOSITORIOS&color=37ae6c)
+![Profile view](https://komarev.com/ghpvc/?username=Aritz-Garcia&color=37ae6c&style=for-the-badge&label=VISITAS%20DEL%20PERFIL)
 
 <div align="center">
 
