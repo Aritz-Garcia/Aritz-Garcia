@@ -2,7 +2,7 @@
 <div align="center">
 
 <!-- repo_count_starts -->
-![](https://img.shields.io/badge/5-%20?&style=for-the-badge&logo=github&logoColor=FFFFFF&label=REPOSITORIOS&color=37ae6c)<!-- repo_count_ends -->
+![](https://img.shields.io/badge/6-%20?&style=for-the-badge&logo=github&logoColor=FFFFFF&label=REPOSITORIOS&color=37ae6c)<!-- repo_count_ends -->
 ![Profile view](https://komarev.com/ghpvc/?username=Aritz-Garcia&color=37ae6c&style=for-the-badge&label=VISITAS%20DEL%20PERFIL)
 
 </div>
