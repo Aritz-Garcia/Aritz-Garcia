@@ -25,7 +25,7 @@ jobs:
       - name: Update README if needed
         if: env.REPO_COUNT != env.CURRENT_COUNT
         run: |
-          sed -i "/<!-- repo_count_starts -->/,/<!-- repo_count_ends -->/c<!-- repo_count_starts -->\n![](https://img.shields.io/badge/${{ env.REPO_COUNT }}-%20?&style=for-the-badge&logo=github&logoColor=FFFFFF&label=REPOSITORIOS&color=37ae6c)<!-- repo_count_ends -->" README.md
+          sed -i "/<!-- repo_count_starts -->/,/<!-- repo_count_ends -->/c<!-- repo_count_starts -->\n[![](https://img.shields.io/badge/${{ env.REPO_COUNT }}-%20?&style=for-the-badge&logo=github&logoColor=FFFFFF&label=REPOSITORIOS&color=37ae6c)](https://github.com/Aritz-Garcia?tab=repositories)<!-- repo_count_ends -->" README.md
           git config --global user.email "aritz2030@gmail.com"
           git config --global user.name "Aritz-Garcia"
           git add README.md
