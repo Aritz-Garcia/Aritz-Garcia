@@ -55,6 +55,8 @@ Soy un desarrollador apasionado con un enfoque en el desarrollo web y la creaci√
 ![IDEA IntelliJ](https://img.shields.io/badge/INTELLIJ%20IDEA-%20?style=for-the-badge&logo=intellijidea&logoColor=ffffff&color=%23000000)
 ![Notepad++](https://img.shields.io/badge/NOTEPAD%2B%2B-%20?style=for-the-badge&logo=notepadplusplus&logoColor=000000&color=%2390E59A)
 ![Firebase](https://img.shields.io/badge/FIREBASE-%20?style=for-the-badge&logo=firebase&logoColor=000000&color=%23FFCA28)
+![MongoDB](https://img.shields.io/badge/MONGODB-%20?style=for-the-badge&logo=mongodb&logoColor=FFFFFF&color=47A248)
+![Vercel](https://img.shields.io/badge/VERCEL-%20?style=for-the-badge&logo=vercel&logoColor=FFFFFF&color=000000)
 ![Postman](https://img.shields.io/badge/POSTMAN-%20?style=for-the-badge&logo=postman&logoColor=ffffff&color=%23FF6C37)
 ![VirtualBox](https://img.shields.io/badge/VIRTUALBOX-%20?style=for-the-badge&logo=virtualbox&logoColor=ffffff&color=%23183A61)
 ![Figma](https://img.shields.io/badge/FIGMA-%20?style=for-the-badge&logo=figma&logoColor=ffffff&color=%23F24E1E)
