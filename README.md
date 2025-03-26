@@ -73,7 +73,7 @@ Soy un desarrollador apasionado con un enfoque en el desarrollo web y la creaci�
 </div>
 
 ## Contacto ✉️
-[![LINKEDIN](https://img.shields.io/badge/LINKEDIN-%20?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&color=%230A66C2)](https://www.linkedin.com/in/aritz-garcia-barañano)
+[![LINKEDIN](https://img.shields.io/badge/LINKEDIN-%20?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&color=%230A66C2)](https://www.linkedin.com/in/aritz-garcia-baranano)
 [![GMAIL](https://img.shields.io/badge/GMAIL-%20?style=for-the-badge&logo=gmail&logoColor=FFFFFF&color=%23EA4335)](mailto:aritz2030@gmail.com)
 
 ## Donaciones 💰
